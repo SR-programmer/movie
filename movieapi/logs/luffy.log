@@ -1,0 +1,218 @@
+                                                                                       ERROR 2019-12-10 20:52:49,762 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,763 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,764 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,764 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,765 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,765 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 20:52:49,808 basehttp 124 "GET /home/show/%E7%94%B5%E5%BD%B1/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,809 basehttp 124 "GET /home/recommend/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,812 basehttp 124 "GET /home/show/%E9%9F%B3%E4%B9%90/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,812 basehttp 124 "GET /home/gif/tvplay/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,814 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,815 basehttp 124 "GET /home/gif/movie/ HTTP/1.1" 400 26
+ERROR 2019-12-10 20:52:49,818 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,819 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 20:52:49,820 basehttp 124 "GET /home/show/%E5%8A%A8%E7%94%BB/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,820 basehttp 124 "GET /home/gif/music/ HTTP/1.1" 400 26
+ERROR 2019-12-10 20:52:49,820 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,821 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 20:52:49,822 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 20:52:49,826 basehttp 124 "GET /home/gif/comic/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,826 basehttp 124 "GET /home/show/%E7%BB%BC%E8%89%BA/ HTTP/1.1" 400 26
+WARNING 2019-12-10 20:52:49,828 basehttp 124 "GET /home/gif/other/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:26,987 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:26,989 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:26,990 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:26,996 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:26,997 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:26,998 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:27,003 basehttp 124 "GET /home/gif/tvplay/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,003 basehttp 124 "GET /home/recommend/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,003 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,004 basehttp 124 "GET /home/show/%E9%9F%B3%E4%B9%90/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,007 basehttp 124 "GET /home/gif/movie/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:27,010 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:27,011 basehttp 124 "GET /home/gif/music/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,012 basehttp 124 "GET /home/show/%E7%94%B5%E5%BD%B1/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:27,014 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:27,014 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:04:27,015 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:27,016 basehttp 124 "GET /home/show/%E5%8A%A8%E7%94%BB/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:27,018 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:27,018 basehttp 124 "GET /home/show/%E7%BB%BC%E8%89%BA/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,018 basehttp 124 "GET /home/gif/comic/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:04:27,021 basehttp 124 "GET /home/gif/other/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:41,553 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:41,555 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:04:41,598 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:04:41,600 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:18:13,181 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:18:13,187 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:18:13,231 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:18:13,232 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,849 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,850 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,851 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,853 basehttp 124 "GET /home/recommend/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,854 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:19:08,856 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,857 basehttp 124 "GET /home/gif/tvplay/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,858 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:19:08,860 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,861 basehttp 124 "GET /home/show/%E7%94%B5%E5%BD%B1/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,862 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,862 basehttp 124 "GET /home/gif/movie/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,865 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:19:08,869 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:19:08,870 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,870 basehttp 124 "GET /home/gif/music/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:19:08,871 basehttp 124 "GET /home/show/%E9%9F%B3%E4%B9%90/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:19:08,871 basehttp 124 "GET /home/show/%E5%8A%A8%E7%94%BB/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:08,872 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:08,873 basehttp 124 "GET /home/gif/comic/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:19:08,874 basehttp 124 "GET /home/show/%E7%BB%BC%E8%89%BA/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:19:08,876 basehttp 124 "GET /home/gif/other/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:24,958 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:24,958 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:19:25,002 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:19:25,002 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:20:43,576 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:20:43,576 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,777 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:21:57,778 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:21:57,788 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:21:57,788 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:21:57,792 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,800 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,806 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,807 basehttp 124 "GET /home/gif/music/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,810 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,811 basehttp 124 "GET /home/show/%E5%8A%A8%E7%94%BB/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,815 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,819 basehttp 124 "GET /home/show/%E9%9F%B3%E4%B9%90/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,821 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,821 basehttp 124 "GET /home/gif/comic/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:21:57,827 basehttp 124 "GET /home/recommend/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:21:57,831 basehttp 124 "GET /home/gif/tvplay/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:21:57,835 basehttp 124 "GET /home/show/%E7%94%B5%E5%BD%B1/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:21:57,835 basehttp 124 "GET /home/gif/movie/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,839 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,840 basehttp 124 "GET /home/gif/other/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:21:57,845 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:21:57,847 basehttp 124 "GET /home/show/%E7%BB%BC%E8%89%BA/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,089 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:22:21,098 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2019-12-10 21:22:21,100 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,101 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,104 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,110 basehttp 124 "GET /home/show/%E7%94%B5%E5%BD%B1/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,106 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,111 basehttp 124 "GET /home/gif/movie/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:22:21,112 basehttp 124 "GET /home/gif/tvplay/ HTTP/1.1" 400 26
+WARNING 2019-12-10 21:22:21,107 basehttp 124 "GET /home/recommend/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,136 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,136 basehttp 124 "GET /home/show/%E9%9F%B3%E4%B9%90/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,139 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,140 basehttp 124 "GET /home/gif/music/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,145 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,145 basehttp 124 "GET /home/show/%E5%8A%A8%E7%94%BB/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,148 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,149 basehttp 124 "GET /home/gif/comic/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,234 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,235 basehttp 124 "GET /home/show/%E7%BB%BC%E8%89%BA/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:22:21,236 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:22:21,237 basehttp 124 "GET /home/gif/other/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:24:49,209 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:24:49,215 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:24:49,265 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:24:49,265 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:25:03,432 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:25:03,433 basehttp 124 "GET /home/banners HTTP/1.1" 400 26
+ERROR 2019-12-10 21:25:03,463 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:25:03,465 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:25:16,405 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:25:16,406 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:27:23,190 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:27:23,197 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:27:23,236 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:27:23,237 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:28:08,477 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:28:08,478 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:28:08,519 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:28:08,519 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:31:14,895 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:31:14,899 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:31:14,945 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:31:14,946 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:32:01,115 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:32:01,116 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:32:01,172 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:32:01,173 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+ERROR 2019-12-10 21:32:18,506 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:32:18,506 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 26
+ERROR 2019-12-10 21:36:34,714 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:36:34,715 basehttp 124 "GET / HTTP/1.1" 400 26
+ERROR 2019-12-10 21:36:34,765 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2019-12-10 21:36:34,766 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 26
+WARNING 2019-12-10 21:37:09,193 base 93 Not Found: /
+WARNING 2019-12-10 21:37:09,194 basehttp 124 "GET / HTTP/1.1" 404 2360
+WARNING 2019-12-10 21:37:09,280 base 93 Not Found: /favicon.ico
+WARNING 2019-12-10 21:37:09,280 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2411
+WARNING 2019-12-13 22:03:22,244 base 93 Not Found: /
+WARNING 2019-12-13 22:03:22,244 basehttp 124 "GET / HTTP/1.1" 404 2360
+WARNING 2019-12-13 22:03:22,329 base 93 Not Found: /favicon.ico
+WARNING 2019-12-13 22:03:22,330 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2411
+WARNING 2019-12-13 22:06:03,316 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-13 22:09:20,321 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-13 22:12:44,531 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-13 22:12:48,422 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+ERROR 2019-12-13 22:12:48,473 exception 11 <all_resource.views.MovieLinkAPIView object at 0x000000000DB87F28>:'AnonymousUser' object has no attribute 'is_vip'
+ERROR 2019-12-13 22:12:48,474 basehttp 124 "GET /all/movie/link/?movie=133 HTTP/1.1" 500 34
+WARNING 2019-12-13 22:12:56,077 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-13 22:12:59,618 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-13 22:13:05,657 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 10:57:41,248 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:07:02,803 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:07:13,492 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:53:57,336 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:54:21,300 basehttp 124 "POST /user/upordown/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:54:24,919 basehttp 124 "POST /user/upordown/ HTTP/1.1" 401 43
+WARNING 2019-12-16 11:54:29,628 basehttp 124 "POST /user/upordown/ HTTP/1.1" 401 43
+ERROR 2019-12-16 13:17:54,495 exception 11 <user.views.LoginAPIView object at 0x000000000DA00470>:name 'jwt_create_payload' is not defined
+ERROR 2019-12-16 13:17:54,496 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+WARNING 2019-12-16 13:19:54,355 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:20:00,319 basehttp 124 "POST /user/upordown/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:20:04,585 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:20:44,793 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:20:49,044 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:20:52,727 basehttp 124 "POST /user/upordown/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:21:14,381 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2019-12-16 13:23:52,838 basehttp 124 "POST /user/login/ HTTP/1.1" 400 29
+ERROR 2019-12-16 13:24:10,802 exception 11 <user.views.LoginAPIView object at 0x000000000DA03208>:name 'jwt_create_payload' is not defined
+ERROR 2019-12-16 13:24:10,804 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+ERROR 2019-12-16 13:29:47,207 exception 11 <user.views.LoginAPIView object at 0x000000000D5C4C88>:name 'jwt_create_payload' is not defined
+ERROR 2019-12-16 13:29:47,207 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+ERROR 2019-12-16 13:34:05,614 exception 11 <user.views.LoginAPIView object at 0x000000000D93A550>:name 'jwt_create_payload' is not defined
+ERROR 2019-12-16 13:34:05,615 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+ERROR 2019-12-16 21:29:13,360 exception 11 <user.views.LoginAPIView object at 0x000000000E5139E8>:name 'jwt_create_payload' is not defined
+ERROR 2019-12-16 21:29:14,312 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+WARNING 2020-01-02 14:37:33,707 base 93 Not Found: /
+WARNING 2020-01-02 14:37:33,722 basehttp 124 "GET / HTTP/1.1" 404 2360
+WARNING 2020-01-02 14:37:33,901 base 93 Not Found: /favicon.ico
+WARNING 2020-01-02 14:37:33,901 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2411
+ERROR 2020-01-02 14:41:46,952 exception 11 <user.views.LoginAPIView object at 0x000000000D824F60>:name 'jwt_create_payload' is not defined
+ERROR 2020-01-02 14:41:46,953 basehttp 124 "POST /user/login/ HTTP/1.1" 500 34
+WARNING 2020-01-08 12:09:23,078 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2020-01-08 12:09:34,602 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2020-01-08 12:09:41,470 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2020-01-08 12:10:15,332 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+ERROR 2020-01-08 12:10:15,501 exception 11 <all_resource.views.MovieLinkAPIView object at 0x000000000D9DB668>:'AnonymousUser' object has no attribute 'is_vip'
+ERROR 2020-01-08 12:10:15,541 basehttp 124 "GET /all/movie/link/?movie=134 HTTP/1.1" 500 34
+WARNING 2020-01-08 19:30:18,741 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+ERROR 2020-01-08 19:30:18,763 exception 11 <all_resource.views.MovieLinkAPIView object at 0x000000000D9F5550>:'AnonymousUser' object has no attribute 'is_vip'
+ERROR 2020-01-08 19:30:18,766 basehttp 124 "GET /all/movie/link/?movie=134 HTTP/1.1" 500 34
+WARNING 2020-01-08 19:30:33,455 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+ERROR 2020-01-08 19:30:33,644 exception 11 <all_resource.views.MovieLinkAPIView object at 0x000000000D9F56A0>:'AnonymousUser' object has no attribute 'is_vip'
+ERROR 2020-01-08 19:30:33,648 basehttp 124 "GET /all/movie/link/?movie=134 HTTP/1.1" 500 34
+WARNING 2020-01-08 19:31:27,825 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
+WARNING 2020-01-08 19:31:35,589 basehttp 124 "POST /user/watch/record/ HTTP/1.1" 401 43
